@@ -13,7 +13,7 @@
 
 ## fast Start
 
-1. Clone Repository: `git clone https://github.com/Simon-Liebl/E-Sex.git`
+1. Clone Repository: `git clone https://github.com/sioXD/react_spring-boot_postgres`
 2. configure postgres in application.properties
 3. install react dependencies: `npm install`
 4. start all 3 server
@@ -42,7 +42,7 @@ Or run the Java Application File.
 
 ## Crashcourse Frontend (React)
 
-```bash
+```powershell
 npm install # install all dependencies
 npm start # start react app
 ```
